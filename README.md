@@ -62,10 +62,62 @@ These may pose **privacy, security, or legal risks**. Remove if not absolutely r
 
 ---
 
-## 🛠️ Next Steps
-- Audit your extensions regularly.  
-- Remove anything you don’t recognize or no longer use.  
-- Keep only **essential & trusted** tools to reduce attack surface.  
-- Use your browser’s **Enhanced Safe Browsing** for extra protection.  
+---
+
+## 🛠️ Cleanup Steps
+
+Follow these steps to audit and remove risky extensions:
+
+### 1. Open Extensions Page
+- In Chrome/Brave/Edge:  
+  - Type `chrome://extensions/` in the address bar and press **Enter**.  
+- In Firefox:  
+  - Type `about:addons` in the address bar and press **Enter**.  
+
+---
+
+### 2. Review Installed Extensions
+- Look at the list of installed extensions.  
+- Compare each with the **Safe / Suspicious / Unsupported** categories above.  
+
+---
+
+### 3. Remove Suspicious Extensions
+- Click **Remove** under the extension’s name.  
+- Confirm the removal when prompted.  
+- Repeat for all extensions flagged as suspicious.  
+
+---
+
+### 4. Disable Non-Essential Extensions
+- If you are unsure about an extension:  
+  - Toggle the switch to **disable** it instead of removing.  
+  - Test your browsing for a few days.  
+  - If nothing breaks, safely remove it later.  
+
+---
+
+### 5. Check for Hidden Malware
+- Go to browser settings → **Advanced → Reset and clean up**.  
+- Run **Clean up computer** (in Chrome/Brave).  
+- Optionally scan with a trusted anti-malware tool (e.g., Malwarebytes).  
+
+---
+
+### 6. Enable Enhanced Safe Browsing
+- In Chrome/Brave:  
+  - Go to **Settings → Privacy and security → Security**.  
+  - Turn on **Enhanced protection**.  
+
+---
+
+### 7. Best Practices Going Forward
+- Install extensions only from official sources (Chrome Web Store / Firefox Add-ons).  
+- Avoid extensions with vague descriptions or unnecessary permissions.  
+- Review your extensions every few months.  
+
+---
+
+✅ After cleanup, your browser will be **faster, safer, and more private**.  
 
 ---
