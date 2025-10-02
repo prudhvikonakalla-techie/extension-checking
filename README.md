@@ -4,7 +4,8 @@ This document provides an overview of the installed browser extensions, categori
 It is recommended to review and remove unnecessary or risky extensions for better **privacy, security, and performance**.
 
 ---
-
+![](/images/1.png)
+![](/images/2.png)
 ## ✅ Safe / Trusted Extensions
 These are well-known and generally safe to keep:
 
